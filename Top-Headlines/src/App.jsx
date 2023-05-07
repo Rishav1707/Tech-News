@@ -4,8 +4,8 @@ import TopHeadlines from "./TopHeadlines";
 import news from "./assets/news.png";
 import "./App.css";
 
-const APIKEY = "4b1d40ec5bmshfe7226d999ac2d5p14a68ajsn59a93ecb7052";
-const APIHOST = "news-api14.p.rapidapi.com";
+const APIKEY = import.meta.env.VITE_APIKEY;
+const APIHOST = import.meta.env.VITE_APIHOST;
 const URL = "https://news-api14.p.rapidapi.com/top-headlines";
 
 function App() {
