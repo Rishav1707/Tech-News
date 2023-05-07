@@ -12,7 +12,8 @@ html {
 :root {
   --primary-color: #008CBA;
   --border-color: #007095;
-  --background-color: #fff;
+  --background-color: #f3fbff;
+  /* --background-color: #fff; */
   --font-color: #000;
 }
 
@@ -70,8 +71,8 @@ img {
 }
 
 .article-item {
-  height: 30rem;
-  border: 1px solid gray;
+  /* height: 30rem; */
+  border: 1px solid var(--primary-color);
   border-radius: 0.5rem;
   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 }
