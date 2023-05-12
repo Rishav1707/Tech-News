@@ -4,4 +4,4 @@
 
 # Screenshot
 
-![image](https://user-images.githubusercontent.com/97666287/236634021-65a521dc-58ea-4c5e-a8ad-593d55e8606e.png)
+![News_headlines](https://github.com/Rishav1707/Tech-News/assets/97666287/5ec3cbee-a26d-4479-8b7e-fd07555e10f5)
